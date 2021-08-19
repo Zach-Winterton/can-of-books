@@ -28,7 +28,7 @@ I am using JavaScript React, React-Bootstrap, Axios, Github, VsCode, Express
 Yirim
 
 ## WRRC
-![UML](./img/WRRC Lab11.jpg)
+![UML](./img/WRRCLab11.jpg)
 
 Number and name of feature: Feature #1: Set up your React repository 
 
